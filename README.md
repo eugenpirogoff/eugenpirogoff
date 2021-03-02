@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is Eugen
 
-<!--
-**eugenpirogoff/eugenpirogoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭I’m currently working at Adesso Mobile Solutions
+- 📚 I'm currently reading The Pheonix Project
+- 🌱 I’m currently learning SwiftUI/Combine
+- 👯 I’m looking for new tools in Swift & Rust
+- 💬 Ask me about cargo bikes, mechanical keyboards, running & longboarding
+- 🔑 My PGP Key can be found here [4DB8 C39E 410B 9DDE 069A  7C8A E4CD 8D0E 5A08 D79E](https://keys.openpgp.org/search?q=eugenpirogoff@me.com)
+- 📫 You can reach me: eugenpirogoff (at) me (dot) com or at  [https://pirogoff.me](https://pirogoff.me)
+- ⚡ Fun fact: i once burned down a house with a pair of matchsticks
+- 😄 Pronouns: he/him
