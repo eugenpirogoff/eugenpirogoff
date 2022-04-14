@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Eugen
 
 - 🔭I’m currently working at diconium
-- 📚 I'm currently reading Project Hail Mary
+- 📚 I'm currently reading The Circle
 - 🌱 I’m currently learning SwiftUI/Combine
 - 👯 I’m looking for new tools in Swift & Rust
 - 💬 Ask me about cargo bikes, mechanical keyboards, running & longboarding
