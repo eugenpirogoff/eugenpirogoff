@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Eugen
 
 - 🔭I’m currently working at diconium
-- 📚 I'm currently reading The Circle
-- 🌱 I’m currently learning SwiftUI/Combine
+- 📚 I'm currently reading Build by Toni Fadell
+- 🌱 I’m currently learning SwiftUI/Combine and ESP32 stuff
 - 👯 I’m looking for new tools in Swift & Rust
 - 💬 Ask me about cargo bikes, mechanical keyboards, running & longboarding
 - 🔑 My PGP Key can be found here [4DB8 C39E 410B 9DDE 069A  7C8A E4CD 8D0E 5A08 D79E](https://keys.openpgp.org/search?q=eugenpirogoff@me.com)
