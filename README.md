@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Eugen
 
 - 🔭I’m currently working at diconium
-- 📚 I'm currently reading Build by Toni Fadell
+- 📚 I'm currently reading Staff Engineer by Will Larson
 - 🌱 I’m currently learning SwiftUI/Combine and ESP32 stuff
 - 👯 I’m looking for new tools in Swift & Rust
 - 💬 Ask me about cargo bikes, mechanical keyboards, running & longboarding
