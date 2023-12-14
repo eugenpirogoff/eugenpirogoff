@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Eugen
 
 - 📚 I'm currently reading Staff Engineer by Will Larson
-- 🌱 I’m currently learning SwiftUI/Combine and ESP32 stuff
-- 👯 I’m looking for new tools in Swift & Rust
+- 🌱 I’m currently learning SwiftUI/Combine and ESP32 stuff with Toit
+- 👯 I’m looking for new tools in Swift & Rust & Toit
 - 💬 Ask me about cargo bikes, mechanical keyboards, running & longboarding
 - 🔑 My PGP Key can be found here [4DB8 C39E 410B 9DDE 069A  7C8A E4CD 8D0E 5A08 D79E](https://keys.openpgp.org/search?q=eugenpirogoff@me.com)
 - 📫 You can reach me: eugenpirogoff (at) me (dot) com or at  [https://pirogoff.me](https://pirogoff.me)
